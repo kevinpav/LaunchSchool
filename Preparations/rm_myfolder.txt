@@ -1,0 +1,1 @@
+Did not execute the rm -R on my_folder. Wanted to keep it for Launch School.

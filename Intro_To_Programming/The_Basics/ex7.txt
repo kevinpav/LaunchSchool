@@ -1,0 +1,3 @@
+Error indicates unbalanced parenthesis and/or incorrect opening/closing brace, parens, etc.
+
+Syntax rather than a logic error.

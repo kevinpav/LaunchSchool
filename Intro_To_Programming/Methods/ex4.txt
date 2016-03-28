@@ -1,0 +1,1 @@
+Program will print nothing to the screen. The return in "scream" is before the puts statement.

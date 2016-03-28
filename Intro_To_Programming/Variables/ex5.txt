@@ -1,0 +1,3 @@
+first program prints "3"
+
+second program is error as the "x" variable is defined within the scope of the inner do loop, not the larger program scope when it is called in the puts.
