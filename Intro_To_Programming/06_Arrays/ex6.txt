@@ -1,0 +1,8 @@
+
+# The problem is the command is trying to reference an array position
+# with a string. This can be fixed in a variety of ways. Here are a couple:
+
+# Reference the array position numerically:
+names[3] = 'jody'
+
+# Or, iterate through the array, testing for and replacing "margaret" (see ex6.rb)

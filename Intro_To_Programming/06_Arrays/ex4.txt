@@ -1,0 +1,7 @@
+arr = [15, 7, 18, 5, 12, 8, 5, 1]
+
+1. arr.index(5) # Returns 3 because that is the array position where "5" is.
+
+2. arr.index[5] # Error, undefined method []
+
+3. arr[5]   # Returns "8" as it is the 5th position of the array.
