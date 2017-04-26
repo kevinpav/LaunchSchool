@@ -1,0 +1,5 @@
+Exception handling allows programmers to execute various code, with a safety net.
+It allows the program to gracefully handle various "crashes", without cancelling
+program execution.
+
+Java has try/catch. Ruby has code/rescue.

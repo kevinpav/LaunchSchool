@@ -1,0 +1,4 @@
+Looked around a bit; udemy, Lynda, etc. Nothing seems to be overwhelmingly positive or recent.
+
+I would probably have a look at Pluralsight or their sister school/course CodeSchool:
+https://www.codeschool.com/courses/surviving-apis-with-rails

@@ -1,0 +1,4 @@
+Array vs Hash
+
+Major difference is an array is an ordered list of values.
+Hash is a set of key: value pairs.
